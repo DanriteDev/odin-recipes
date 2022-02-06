@@ -121,12 +121,22 @@
   margin-bottom: 50px;
 }
 
-ul.ingredientsList {
-}
 
 .ingredientsList li {
   font-size: 28px;
-  list-style-type: "\025A2";
+  list-style-type: "\2611";
   padding-left: 25px;
   line-height: 50px;
 }
+
+
+.stepsList li {
+  font-size: 28px;
+  list-style-type: "\2612";
+  padding-left: 25px;
+  line-height: 50px;
+}
+
+
+
+
