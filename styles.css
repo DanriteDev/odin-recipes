@@ -19,6 +19,10 @@
     margin-top: 20px !important;
   }
 
+  .odin img {
+   display: none;
+  }
+
  }
 
 /* Large devices (desktops, less than 1200px)*/
@@ -135,6 +139,13 @@
   list-style-type: "\2612";
   padding-left: 25px;
   line-height: 50px;
+}
+
+.odin img {
+  width: 200px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 
