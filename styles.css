@@ -142,9 +142,9 @@
 }
 
 .odin img {
-  width: 200px;
+  width: 150px;
   position: absolute;
-  bottom: 0;
+  top: 0;
   right: 0;
 }
 
